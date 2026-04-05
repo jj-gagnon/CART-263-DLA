@@ -2,7 +2,7 @@
 
 ![gif](./gif.gif)
 
-![image]("./image out.jpg")
+![image](./image_out.jpg)
 
 #Description
 The plan here was to limit the range that the particles would sapwn away from the tree. Because if they were far away it could take a long time for them to wander closer. 
