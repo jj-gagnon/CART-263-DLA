@@ -22,3 +22,5 @@
 ![image](./readme_images/6.png)
 
 ![image](./readme_images/1.png)
+
+![image](./readme_images/7.gif)
