@@ -12,7 +12,7 @@
 ## Interesting error 1
 ### This one was due to an 8 bit overflow
 ![image](./readme_images/3.gif)
-![image](./readme_images/4.png)
+![image](./readme_images/4.jpg)
 
 
 ## Interesting error 2
