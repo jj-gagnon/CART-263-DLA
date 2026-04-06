@@ -3,7 +3,7 @@
 ![gif](./gif.gif)
 
 ![image](./image.jpg)
-<img src="/image.jpg" width="540">
+<img src="/image.jpg">
 
 # Description
 - Spawn new particles randomly along a circle that is just bigger than the tree structure and gets larger as the tree grows. Which is colored in dark grey in the gif above. 
