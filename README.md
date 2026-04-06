@@ -8,6 +8,7 @@
 - The idea here is that tree is broken up into layers, where each layer represents the tree at a certain stage of growth. By blurring and image then applying a threshold operation, you can make a shape bigger. This is what I do here. The trick is that each new particle (pixel) added to the tree gets blurred increasingly after it is added. 
 - That was the goal but in this implementation there was some kind of 8 bit overflow error when trying to make larger images. The error looks cool though so I put them in here:
 - Had to increase the resolution of the images to allow to blur to act more smoothly. 
+- You can get very different results by change the blur amount, the threshold, and amount that the image size is upscaled. The two images above are examples of the different looks that can be acheived. 
 
 ## Interesting error 1
 ### This one was due to an 8 bit overflow
@@ -19,3 +20,5 @@
 ### This one occured when I messed up the order of operations for the blurring and stacking of layers
 ![image](./readme_images/5.png)
 ![image](./readme_images/6.png)
+
+![image](./readme_images/1.png)
