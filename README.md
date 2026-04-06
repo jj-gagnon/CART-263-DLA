@@ -1,12 +1,9 @@
-# Step 2: Failed Optimization
+# Step 3: Spawn new particles only on bounding circle
 
 ![gif](./gif.gif)
 
-![image](./image_out.jpg)
+![image](./image.jpg)
 
 # Description
-The plan here was to limit the range that the particles would sapwn away from the tree. Because if they were far away it could take a long time for them to wander closer. 
-
-Also I would only wait a certain amount of time before remove all wondering points and spawning a new batch. This would also prevent particles from wondering too far away. 
-
-The problem was that I was spawning particles in a square around the center, and so they would spawn inside the tree instead of on the outside so that they can wonder in. 
+- Spawn new particles randomly along a circle that is just bigger than the tree structure and gets larger as the tree grows. Which is colored in dark grey in the gif above. 
+- There is now a despawn radius which if a particle wanders past it will be deleted. This is colored in light grey in the gif above. 
