@@ -8,9 +8,10 @@
 - Lots of things got implemented here
 
 - save raster image layer at each step. 
-- convert those raster images to vector...
-- scale and format those SVG images
-- preview in blender. 
+- convert those raster images to vector... using the vtracer library. 
+- scale and format those SVG images. using another library. list the steps done in cleanng and formatting
+- preview in blender. which was a great tool. originally i tried to use blender to preview the layers with the height by traing to displace a grid with the raster image. that didnt work veyr well. 
+- this way of previewing is a lot faster and gives me the importatn info. 
 
 - also made cv2 gui for live preview of parameters
 
