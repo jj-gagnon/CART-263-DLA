@@ -1,6 +1,6 @@
 # Step 7: Optimizing with Numba
 
-![image](./readme_images/1.png
+![image](./readme_images/1.png)
 
 ## Description
 - used numba to dramitcally increase the speed of the actual DLA simulation to get the initial discrete brownian tree. 
