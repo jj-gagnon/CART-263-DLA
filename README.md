@@ -1,7 +1,23 @@
-# CART-263-DLA
+# Step 8: First and second laser cut tests
 
-## Goal of this project
-I wanted to create a sculpture of a brownian tree. I chose to use slices of paper cut with a laser cutter and stacked together to create the strucutre. 
+## First Test
 
-## What is DLA?
-DLA stands for Diffusion Limited Aggregation. It is a stochastic process whereby particles that exhibit random brownian motion will aggregate together to form tree like structures. The idea being that you start with one "frozen" particle. The other particles are moving around randomly and if anyone of them touch a frozen particle they stop moving and become frozen as well. As more particles freeze to the structure the more branching tree pattern shows
+![image](./readme_images/1.jpeg)
+![image](./readme_images/2.jpeg)
+![image](./readme_images/3.jpeg)
+
+The first test revealed that the cut path had darker points at each vertex in the path in the SVG file. 
+We weren't sure what was causing this. 
+
+
+
+## Second test
+
+![image](./readme_images/4.jpeg)
+![image](./readme_images/5.jpeg)
+
+The techinicians were very nice and we spent a few hours changing parameters of the laser cutter to see how it would effect things. 
+
+It turns out that the SVG paths are just a bunch of very small lines connected by vertices. There are many vertices and it seems like the laser cutter would pause every so briefly at each vertex. This would create a darker point at each vertex. This was not expected but oh well. I think that the points might look cool. 
+
+The pausing of the machine also makes the difference in speed settings of the machine have less of an effect on total cut time, because a lot of the time is spent on those pauses either way. 
