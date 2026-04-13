@@ -1,8 +1,10 @@
 # Step 1: Simple and slow version
 Slower timescale
+
 ![hippo](./readme_images/1.gif)
 
 Faster timescale
+
 ![hippo](./readme_images/2.gif)
 
 
