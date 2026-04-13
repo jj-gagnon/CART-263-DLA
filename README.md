@@ -26,7 +26,7 @@ This one occured when I messed up the order of operations for the blurring and s
 
 
 ## Next Step
-[Step 5: Correct blurring and stacking](https://github.com/jj-gagnon/CART-263-DLA/tree/step-4-accumulative-blurring-and-threshold)
+[Step 5: Correct blurring and stacking](https://github.com/jj-gagnon/CART-263-DLA/tree/step-5-correct-blur-and-stacking)
 
 
 ## Table of Contents
@@ -38,7 +38,7 @@ This one occured when I messed up the order of operations for the blurring and s
 
 [Step 4: Making the tree structure's branches have more width](https://github.com/jj-gagnon/CART-263-DLA/tree/step-4-accumulative-blurring-and-threshold)
 
-[Step 5: Correct blurring and stacking](https://github.com/jj-gagnon/CART-263-DLA/tree/step-4-accumulative-blurring-and-threshold)
+[Step 5: Correct blurring and stacking](https://github.com/jj-gagnon/CART-263-DLA/tree/step-5-correct-blur-and-stacking)
 
 [Step 6: Creating image layers and converting to SVG](https://github.com/jj-gagnon/CART-263-DLA/tree/step-6-converting-to-image-layers-and-svg)
 
