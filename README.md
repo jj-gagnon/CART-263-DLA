@@ -21,7 +21,7 @@ This one occured when I messed up the order of operations for the blurring and s
 ![image](./readme_images/5.png)
 ![image](./readme_images/6.png)
 
-![image](./readme_images/1.png)
+
 
 
 
