@@ -12,7 +12,6 @@ Forgot to stop a particle from continuing once it has been frozen to the tree. S
 
 ![image](./readme_images/2.gif)
 
-
 Open image in a new tab to zoom in on the detail:
 
 ![image](./readme_images/3.png)
