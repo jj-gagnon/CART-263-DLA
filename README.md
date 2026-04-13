@@ -8,7 +8,7 @@
 - With Numba I could make much larger brownian trees. 
 
 ## Interesting error
-- Forgot to stop a particle from continuing once it has been frozen to the tree. So particles would keep drawing and make a sort of fractal and noisy path. 
+Forgot to stop a particle from continuing once it has been frozen to the tree. So particles would keep drawing and make a sort of fractal and noisy path. 
 
 ![image](./readme_images/2.gif)
 
