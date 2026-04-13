@@ -8,6 +8,8 @@ DLA stands for Diffusion Limited Aggregation. It is a stochastic process whereby
 
 ## Table of Contents
 [Step 1: Simple and Slow](https://github.com/jj-gagnon/CART-263-DLA/tree/step-1-simple-and-slow)
+
 [Step 2: Failed Optimization](https://github.com/jj-gagnon/CART-263-DLA/tree/step-2-failed-optimization)
+
 [Step 2: Failed Optimization](https://github.com/jj-gagnon/CART-263-DLA/tree/step-2-failed-optimization)
 
