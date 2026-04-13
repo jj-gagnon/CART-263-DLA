@@ -6,6 +6,10 @@ I wanted to create a sculpture of a brownian tree. I chose to use slices of pape
 ## What is DLA?
 DLA stands for Diffusion Limited Aggregation. It is a stochastic process whereby particles that exhibit random brownian motion will aggregate together to form tree like structures. The idea being that you start with one "frozen" particle. The other particles are moving around randomly and if anyone of them touch a frozen particle they stop moving and become frozen as well. As more particles freeze to the structure the more branching tree pattern shows
 
+## Next Step
+[Step 1: Simple and slow](https://github.com/jj-gagnon/CART-263-DLA/tree/step-1-simple-and-slow)
+
+
 ## Table of Contents
 [Step 1: Simple and slow](https://github.com/jj-gagnon/CART-263-DLA/tree/step-1-simple-and-slow)
 
@@ -22,6 +26,15 @@ DLA stands for Diffusion Limited Aggregation. It is a stochastic process whereby
 [Step 7: Optimizing with Numba](https://github.com/jj-gagnon/CART-263-DLA/tree/step-7-optimizing-with-numba)
 
 [Step 8: First and second laser cut tests](https://github.com/jj-gagnon/CART-263-DLA/tree/step-8-first-and-second-test-laser-cut)
+
+[Step 9: Finalizing the design](https://github.com/jj-gagnon/CART-263-DLA/tree/step-9-first-attempt-at-finalizing-the-design)
+
+[Step 10: Preparing files for laser cutter](https://github.com/jj-gagnon/CART-263-DLA/tree/step-10-preparing-files)
+
+[Step 11: Assembly](https://github.com/jj-gagnon/CART-263-DLA/tree/step-11-assembly)
+
+[Step 12: Finished](https://github.com/jj-gagnon/CART-263-DLA/tree/step-12-finished)
+
 
 
 
