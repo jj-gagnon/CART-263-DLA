@@ -9,6 +9,10 @@ I think I'm might put a hole in the back as well so that I can hang it on a wall
 
 ![image](./readme_images/1.jpg)
 ![image](./readme_images/2.jpg)
+![image](./readme_images/3.jpg)
+![image](./readme_images/4.jpg)
+![image](./readme_images/5.jpg)
+![image](./readme_images/6.jpg)
 
 
 
