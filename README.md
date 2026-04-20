@@ -5,6 +5,7 @@
 
 The process started by sorting the pieces into their correct order and making sure all the pieces were there. 
 At this step I realized that I made several errors when labeling the pieces. It took some careful sleuthing to figure out the proper order of the layers. Fortunately I have all the pieces. 
+
 ![image](./readme_images/1.jpg)
 
 
@@ -14,12 +15,14 @@ I put E8000 glue along the edge of one piece then pressing and aligning it on to
 
 
 I then press the layers with the glue together to make sure they remain flat. 
+
 ![image](./readme_images/3.jpg)
 ![image](./readme_images/4.jpg)
 
 
 
 Stage after partially gluing the layers from layer 139 to 70.
+
 ![image](./readme_images/5.jpg)
 
 
