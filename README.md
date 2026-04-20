@@ -1,7 +1,14 @@
 # Step 12: Finished Sculpture
 
 ## Description
+I am really happy with the result. 
 
+It was taller than I was expecting it to be. 
+
+I think I'm might put a hole in the back as well so that I can hang it on a wall. 
+
+![image](./readme_images/1.jpg)
+![image](./readme_images/2.jpg)
 
 
 
