@@ -1,9 +1,12 @@
 # Step 12: Finished Sculpture
 
 ## Description
-I am really happy with the result. 
+I am really happy with the result!
 
 It was taller than I was expecting it to be. 
+
+The layers are also less consistent than I thought they would be, but I like the way it looks, more natural. 
+I think there was some inconsistencies with the laser cutter as well. Some layers are darker than others. The paper was also a little strange. About half the pieces had a much warmer color tone of white. I'm not sure if I bought them like that or somehow that happened in the cutting process. 
 
 I think I'm might put a hole in the back as well so that I can hang it on a wall. 
 
