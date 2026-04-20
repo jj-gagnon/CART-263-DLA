@@ -21,7 +21,7 @@ I then press the layers with the glue together to make sure they remain flat.
 
 
 
-Stage after partially gluing the layers from layer 139 to 70.
+State after partially gluing the layers from layer 139 to 70.
 
 ![image](./readme_images/5.jpg)
 
